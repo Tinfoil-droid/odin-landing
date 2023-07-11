@@ -65,6 +65,12 @@
     margin-bottom: 10px;
 }
 
+.info h2 {
+   background-color: #F9FAF8;
+   color: #1F2937; 
+   text-align: center;
+}
+
 .container-flex {
     background-color: #F9FAF8;
     display: flex;
