@@ -1,4 +1,4 @@
-* {
+body {
     background-color: #1F2937;
     color: #f9faf8;
     font-family: 'Roboto', sans-serif;
@@ -65,14 +65,17 @@
     margin-bottom: 10px;
 }
 
+#card {
+    background-color: #F9FAF8;
+    color: #1F2937;
+}
+
 .info h2 {
-   background-color: #F9FAF8;
    color: #1F2937; 
    text-align: center;
 }
 
 .container-flex {
-    background-color: #F9FAF8;
     display: flex;
     align-items: center;
     justify-content: center;
