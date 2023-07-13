@@ -76,16 +76,18 @@ body {
 }
 
 .info h2 {
+    font-size: 36px;    
    color: #1F2937; 
    text-align: center;
    padding-top: 50px;
+   margin-bottom: 0;
 }
 
 .container-flex {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 150px;
+    padding: 50px 150px 150px;
 }
 
 figcaption {
