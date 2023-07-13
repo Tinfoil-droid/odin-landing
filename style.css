@@ -29,6 +29,11 @@ body {
     gap: 20px;
 }
 
+.header-link a {
+    text-decoration: none;
+    color: #F9FAF8;
+}
+
 .header-link a:last-child {
     margin-right: 20px;
 }
